@@ -1,0 +1,55 @@
+ 
+concert-this Bring Me The Horizon "Sorry, I don't understand" 
+movie-this John {
+  "title": "John Wick",
+  "released": "2014",
+  "imdbRating": "7.4",
+  "rottenTomatoes": "86%",
+  "country": "China, USA",
+  "language": "English, Russian, Hungarian",
+  "plot": "An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took everything from him.",
+  "actors": "Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe"
+} 
+spotify-this-song Dead_Presidents {} 
+spotify-this-song Dead Presidents {
+  "artists": [
+    "Rick Ross",
+    "Future",
+    "Jeezy",
+    "Yo Gotti"
+  ],
+  "songName": "Dead Presidents",
+  "album": "Rather You Than Me"
+} 
+spotify-this-song Reminder {
+  "artists": [
+    "The Weeknd"
+  ],
+  "songName": "Reminder",
+  "album": "Starboy"
+} 
+spotify-this-song Reminder {
+  "artists": [
+    "The Weeknd"
+  ],
+  "songName": "Reminder",
+  "album": "Starboy"
+} 
+spotify-this-song Old Town Road {
+  "artists": [
+    "Lil Nas X",
+    "Billy Ray Cyrus"
+  ],
+  "songName": "Old Town Road - Remix",
+  "album": "Old Town Road"
+} 
+movie-this Pokemon {
+  "title": "Pokemon: Pikachu's Rescue Adventure",
+  "released": "1999",
+  "imdbRating": "5.9",
+  "rottenTomatoes": "",
+  "country": "Japan",
+  "language": "Japanese",
+  "plot": "Togepi leads Pikachu and friends on a wild adventure.",
+  "actors": "Ikue Ôtani, Rikako Aikawa, Madeleine Blaustein, Michael Haigney"
+} 
