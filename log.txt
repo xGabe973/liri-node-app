@@ -52,4 +52,90 @@ movie-this Pokemon {
   "language": "Japanese",
   "plot": "Togepi leads Pikachu and friends on a wild adventure.",
   "actors": "Ikue Ôtani, Rikako Aikawa, Madeleine Blaustein, Michael Haigney"
+}  
+undefined  "Sorry, I don't understand" 
+undefined  "Sorry, I don't understand" 
+concert-this Bring Me The Horizon "Sorry, I don't understand" 
+concert-this  "Sorry, I don't understand" 
+spotif-this-song Reminder "Sorry, I don't understand" 
+undefined  "Sorry, I don't understand" 
+undefined  "Sorry, I don't understand" 
+movie-this Mr.Nobody {
+  "title": "Mr. Nobody",
+  "released": "2009",
+  "imdbRating": "7.8",
+  "rottenTomatoes": "67%",
+  "country": "Belgium, Germany, Canada, France, USA, UK",
+  "language": "English, Mohawk",
+  "plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
 } 
+movie-this Mr.Nobody {
+  "title": "Mr. Nobody",
+  "released": "2009",
+  "imdbRating": "7.8",
+  "rottenTomatoes": "67%",
+  "country": "Belgium, Germany, Canada, France, USA, UK",
+  "language": "English, Mohawk",
+  "plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+} 
+spotify-this-song Ace of Base The Sign {
+  "artists": [
+    "Ace of Base"
+  ],
+  "songName": "The Sign",
+  "album": "The Sign (US Album) [Remastered]"
+} 
+spotify-this-song Reminder {
+  "artists": [
+    "The Weeknd"
+  ],
+  "songName": "Reminder",
+  "album": "Starboy"
+} 
+movie-this Mr.Nobody {
+  "title": "Mr. Nobody",
+  "released": "2009",
+  "imdbRating": "7.8",
+  "rottenTomatoes": "67%",
+  "country": "Belgium, Germany, Canada, France, USA, UK",
+  "language": "English, Mohawk",
+  "plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+} 
+movie-this Mr.Nobody {
+  "title": "Mr. Nobody",
+  "released": "2009",
+  "imdbRating": "7.8",
+  "rottenTomatoes": "67%",
+  "country": "Belgium, Germany, Canada, France, USA, UK",
+  "language": "English, Mohawk",
+  "plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+} 
+movie-this Matrix {
+  "title": "Matrix",
+  "released": "1993–",
+  "imdbRating": "8.2",
+  "rottenTomatoes": "",
+  "country": "Canada",
+  "language": "English",
+  "plot": "Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix \"dies\" and finds ...",
+  "actors": "Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon"
+} 
+concert-this  "Sorry, I don't understand" 
+spotify-this-song Ace of Base The Sign {
+  "artists": [
+    "Ace of Base"
+  ],
+  "songName": "The Sign",
+  "album": "The Sign (US Album) [Remastered]"
+} 
+spotify-this-song Reminder {
+  "artists": [
+    "The Weeknd"
+  ],
+  "songName": "Reminder",
+  "album": "Starboy"
+}

@@ -117,7 +117,9 @@ if (command === "movie-this") {
         search = "Ace of Base The Sign";
     }
     getSong();
-} else if (command === "do-what-it-says") {
+}    else if (command === "concert-this") {
+            displayConcertInfo();
+}  else if (command === "do-what-it-says") {
     fs.readFile('random.txt', 'utf8', function (error, data) {
         if (error) {
             logData(error)
